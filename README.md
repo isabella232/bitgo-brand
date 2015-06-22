@@ -5,7 +5,7 @@ BitGo Brand
 
 ##Logo
 ###Primary logo
-This is the recommended logo. It is the [BitGo blue  logo](BitGo_Color_Small.png).
+This is the recommended logo. It is the [BitGo Color  logo](BitGo_Color_Small.png).
 
 ![BitGo Logo](BitGo_Color_Small.png)
 ###Inverted Logo
