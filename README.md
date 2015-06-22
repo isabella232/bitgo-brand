@@ -17,6 +17,7 @@ BitGo is written with the `B` and `G` capitalized, this capitalization is to be 
 ##BitGo Branding and Trademark Guidelines
 
 *We encourage you to use the “BitGo” trademark and logo with your company’s marketing materials for as long as you are a BitGo customer. You can use the icons and other assets on this page provided that you follow the guidelines described below. The following are guidelines for the BitGo brand and related assets.*
+
 1.  BitGo™ should have a trademark symbol the first time it appears in a creative.
 2.  BitGo Enterprise™ should have a trademark symbol the first time it appears in a creative.
 3.  BitGo should always be capitalized and is never plural or possessive.
