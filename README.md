@@ -1,7 +1,7 @@
 BitGo Brand
 ============
 
-[ INSERT BRAND DESCRIPTION ]
+Based in Palo Alto, BitGo launched the first ever multi-signature Bitcoin wallet in 2013, and continues to create innovative security services on top of emerging industry standards. The company operates a security-as-a-service platform that powers the industry’s most secure, enterprise Bitcoin wallet with solutions for corporate treasury and key management.
 
 ##Logo
 ###Primary logo
